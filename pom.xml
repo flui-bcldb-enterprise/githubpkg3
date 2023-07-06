@@ -4,9 +4,9 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.bcldb.service.wsdl</groupId>
-  <artifactId>logging-service-wsdl-business</artifactId>
-  <version>2.2.0</version>  
+  <groupId>com.bcldb.service</groupId>
+  <artifactId>githubpkg3</artifactId>
+  <version>1.0</version>  
   <!-- Other configuration elements -->
 
   <distributionManagement>
