@@ -5,8 +5,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.bcldb.service</groupId>
-  <artifactId>githubpkg3</artifactId>
-  <version>1.0</version>  
+  <artifactId>githubpkg3-1</artifactId>
+  <version>1.1</version>  
   <!-- Other configuration elements -->
 
   <distributionManagement>
